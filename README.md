@@ -73,9 +73,9 @@ Projetos, experiências, tecnologias e informações sobre minha trajetória.
 
 ## 🚀 Outros projetos
 
-- **[Projeto 01]** — Breve descrição do projeto.
-- **[Projeto 02]** — Breve descrição do projeto.
-- **[Projeto 03]** — Breve descrição do projeto.
+* **[Projeto 01]** — Breve descrição do projeto.
+* **[Projeto 02]** — Breve descrição do projeto.
+* **[Projeto 03]** — Breve descrição do projeto.
 
 ---
 
@@ -88,13 +88,13 @@ Projetos, experiências, tecnologias e informações sobre minha trajetória.
 ## 📫 Contato
 
 <p>
-  <a href="[LINKEDIN]">
-    <img src="www.linkedin.com/in/júlio-cézar-barbosa&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9zar-barbosa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[GITHUB]">
-    <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge](https://github.com/juliocezarSB)&logo=github&logoColor=white"/>
+  <a href="https://github.com/juliocezarSB">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:[SEU_EMAIL]">
-    <img src="juliioo.barbosa@gmail.com&logo=gmail&logoColor=white"/>
+  <a href="mailto:juliioo.barbosa@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
